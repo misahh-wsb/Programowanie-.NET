@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<grupy_produktów>
+  <group nazwa="Benzynowe">
+    <opis>Szczegóły samochodów benzynowych</opis>
+    <opisKat>Rodzaje samochodów benzynowych</opisKat>
+    <produkty>
+      <produkt>
+        <nazwa>Toyota Avensis</nazwa>
+        <lata>1997 – 2018</lata>
+        <cena>41000</cena>
+        <segment>Klasa średnia</segment>
+      </produkt>
+      <produkt>
+        <nazwa>Skoda Rapid</nazwa>
+        <lata>1983 – 2019</lata>
+        <cena>42000</cena>
+        <segment>Niższa klasa średnia</segment>
+      </produkt>
+    </produkty>
+  </group>
+
+  <group nazwa="LPG">
+    <opis>Szczegóły samochodów z LPG</opis>
+    <opisKat>Rodzaje samochodów z LPG</opisKat>
+    <produkty>
+      <produkt>
+        <nazwa>VOLKSWAGEN TOUAREG</nazwa>
+        <lata>2005-2010</lata>
+        <cena>44000</cena>
+        <segment>Klasa średnia</segment>
+      </produkt>
+      <produkt>
+        <nazwa>KIA SPORTAGE III</nazwa>
+        <lata>2010-2013</lata>
+        <cena>45000</cena>
+        <segment>Klasa premialna</segment>
+      </produkt>
+    </produkty>
+  </group>
+
+  <group nazwa="Diesel">
+    <opis>Szczegóły samochodów na diesel</opis>
+    <opisKat>Rodzaje samochodów na diesel</opisKat>
+    <produkty>
+      <produkt>
+        <nazwa>Volkswagen Lupo 1.2</nazwa>
+        <lata>1999-2005</lata>
+        <cena>15000</cena>
+        <segment>Auta najmniejsze</segment>
+      </produkt>
+      <produkt>
+        <nazwa>Audi A2</nazwa>
+        <lata>1999-2005</lata>
+        <cena>17000</cena>
+        <segment>Auta małe</segment>
+      </produkt>
+    </produkty>
+  </group>
+</grupy_produktów>
